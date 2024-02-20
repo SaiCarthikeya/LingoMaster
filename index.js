@@ -3,7 +3,7 @@ const cors = require('cors');
 const bodyParser = require('body-parser');
 const OpenAI = require('openai');
 
-const openai = new OpenAI({ apiKey: "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" });
+const openai = new OpenAI({ apiKey: "apikey" });
 
 const app = express();
 app.use(bodyParser.json());
