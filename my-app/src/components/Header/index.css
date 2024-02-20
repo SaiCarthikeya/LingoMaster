@@ -1,0 +1,12 @@
+.logo {
+    height: 110%;
+    margin: auto;
+}
+
+.header-container {
+    height: 10vh;
+    padding: 10px;
+    align-items: center;
+    display: flex;
+    box-shadow:#9f9b9b 0.5px 1px 5px;
+}
