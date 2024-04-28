@@ -1,0 +1,18 @@
+
+.bg-container {
+    height: 100vh;
+    padding: 0px;
+    margin: 0px;
+    background-image: linear-gradient(#fde6cb, #77d3f5);
+}
+
+.text-container {
+    font-family: 'Roboto';
+    text-align: center;
+    padding: 25px;
+}
+
+.main-heading {
+    letter-spacing: 4px;
+    font-family: 'Roboto';
+}
