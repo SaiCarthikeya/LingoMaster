@@ -34,6 +34,15 @@
     box-shadow: #000 1px 1px 5px;
 }
 
+#outputType {
+    padding: 10px;
+    background-color: rgb(0, 166, 255);
+    border: none;
+    margin: 10px;
+    color: white;
+    border-radius: 10px;
+}
+
 input[type="file"] {
     position: absolute;
     z-index: -1;
@@ -42,6 +51,9 @@ input[type="file"] {
     font-size: 17px;
     color: #b8b8b8;
   }
+.output-type-selector {
+    text-align: right;
+}
   
 .button-wrap {
     display: flex;
